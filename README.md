@@ -11,3 +11,5 @@ The dataset has following information in it:
 - Absent (number of students that were registered and was absent).
 - Present (number of students who attended school).
 - Released (number of students that were released from school for any reason).
+
+Here is the link for the website where all the pictures and other descriptions are uploaded: https://sites.google.com/view/usamaikram-mat327-project/home
